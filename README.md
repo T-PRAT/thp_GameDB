@@ -1,1 +1,2 @@
-# thp_GameDB
+# Gamedb
+A simple game library
