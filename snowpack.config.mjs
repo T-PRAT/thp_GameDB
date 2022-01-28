@@ -6,6 +6,7 @@ export default {
   },
   plugins: [
     '@snowpack/plugin-postcss',
+    '@snowpack/plugin-dotenv',
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
